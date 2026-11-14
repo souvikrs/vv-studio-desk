@@ -10,7 +10,7 @@ no backend, no AI calls.
 - Plan prices on the landing page are hidden on the hosted page ("Ask for a quote") because they are not final. They live in the `PLANS`
   constant near the top of the script; set `SHOW_PRICES=true` to show them.
 - The sample studio is "Shubho Drishti Studio" (invented; the `STUDIO` constant).
-- Built 15 Nov 2026. Demo video not made yet.
-- Local only. Not pushed, not deployed.
+- Built 15 Nov 2026.
+- Hosted with GitHub Pages from the public repo souvikrs/vv-studio-desk: https://souvikghoshrs.com/vv-studio-desk/
 
-Documents: [PLAN.md](PLAN.md) (product plan), [DEMO-PLAN.md](DEMO-PLAN.md) (demo design and pricing estimate).
+The product plan and pricing notes are kept locally and are not in this repository.
