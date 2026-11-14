@@ -7,8 +7,8 @@ no backend, no AI calls.
 - Open `index.html` in a browser. No build step.
 - `index.html#v=<view>` opens a dashboard view directly. Views: `home`, `wa`, `calls`,
   `bookings`, `payments`, `delivery`, `brain`, `usage`, `edit`.
-- Plan prices on the landing page are indicative, not final. They live in the `PLANS`
-  constant near the top of the script; set `SHOW_PRICES=false` to show "Ask for a quote".
+- Plan prices on the landing page are hidden on the hosted page ("Ask for a quote") because they are not final. They live in the `PLANS`
+  constant near the top of the script; set `SHOW_PRICES=true` to show them.
 - The sample studio is "Shubho Drishti Studio" (invented; the `STUDIO` constant).
 - Built 15 Nov 2026. Demo video not made yet.
 - Local only. Not pushed, not deployed.
